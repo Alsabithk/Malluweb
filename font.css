@@ -1,0 +1,21 @@
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url("pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2");
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url("pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2");
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url("pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2");
+}
